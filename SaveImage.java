@@ -1,6 +1,5 @@
 import java.io.*;
-import java.nio.*;
-import javax.imageio.*;
+
 
 public class SaveImage {
 

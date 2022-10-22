@@ -1,17 +1,11 @@
 
-import java.nio.file.Path;
 
 import java.io.*;
 
 import java.security.*;
-import javax.crypto.Cipher;
-import javax.crypto.KeyGenerator;
-import javax.crypto.SecretKey;
 import javax.crypto.spec.SecretKeySpec;
 
-import javax.imageio.*;
 import java.util.*;
-import java.awt.image.BufferedImage;
 public class Image_encryption {
     
     public static void main(String args[])
